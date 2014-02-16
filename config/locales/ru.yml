@@ -1,0 +1,5 @@
+ru:
+  activerecord:
+    attributes:
+      spree/taxonomy:
+        show_on_homepage: "Показывать на главной странице"
