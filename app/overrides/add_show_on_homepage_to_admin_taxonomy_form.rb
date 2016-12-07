@@ -1,4 +1,4 @@
-Deface::Override.new(:virtual_path => 'backend/app/views/spree/admin/taxonomies/_form.html',
+Deface::Override.new(:virtual_path => 'spree/admin/taxonomies/_form.html',
   :name => 'add_show_on_homepage_to_admin_taxonomy_form',
   :insert_bottom => "[data-hook='admin_inside_taxonomy_form']",
   :text => "
